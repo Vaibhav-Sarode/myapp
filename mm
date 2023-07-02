@@ -1,12 +1,9 @@
 vaibhav
 vaibhav
-hero
+gh
 vaibhav
 
-hitesh
 sarode
 lalit
 akshay
 rohit
-bhaijaan
-
