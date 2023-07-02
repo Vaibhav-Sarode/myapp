@@ -1,2 +1,2 @@
 hello world
-you are the great person
+you are the good person
